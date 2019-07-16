@@ -1,4 +1,4 @@
-# Flexbox
+# Flexbog
 
 <i>Site desenvolvido com intuito acadêmico, para aprender e praticar a tecnologia flex.</i>
 
